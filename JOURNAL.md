@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12h | 2 |
+| Week 1 | Tier 1 | 11h | 2 |
 
 ## Contents
 
@@ -35,7 +35,7 @@ I also watched a few tutorials, and I found this one very useful:
 
 ### 2026-10-05 — So first, I started to brainstorm ideas because I didn't want it to be a boring copy of the staarbie project, so I decided to make it more of like a handheld console kinda thing with 3 buttons, removi
 
-**8h**
+**7h**
 
 So first, I started to brainstorm ideas because I didn't want it to be a boring copy of the staarbie project, so I decided to make it more of like a handheld console kinda thing with 3 buttons, removing the sensors. This was my original rough plan of what it would look like.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/f17a6059581ecfa8e0170658adbe400f3c7f856f57ae167456bb5b77862601bb.png)
