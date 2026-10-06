@@ -51,4 +51,6 @@ So after an unsuccessful search for parts, I finally came to the conclusion that
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/a0fe17fe1dfff91545d880f296292e647f84770f204e68a78355e2d0ea089ac5.png)
 I also got a approximate quote for the cost to make the PCB which is $2, and shipping is $6.5.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/183ed555549f943e7a90ee5af07268c9f01c3a1ce87341f23d6b23c1dd4ae7a4.png)
-Im going to have to redo the schematics and PCB with a new microcontroller.
+I'm going to have to redo the schematics and PCB with a new microcontroller.
+
+Edit: Never mind, I won't have to, I just realized this whooole thing is in USD and not NZD, giving me a total NZD budget of $53.50. That should just be enough for Everything.
