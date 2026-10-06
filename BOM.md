@@ -19,7 +19,7 @@
 | [Tin Solder 0.8mm 50g](https://www.aliexpress.com/item/1005006222917407.html?spm=a2g0o.cart.0.0.36e038daDEKyOO&mp=1&sourceType=570&pdp_npi=6%40dis%21NZD%21NZD+12.75%21NZD+2.49%21%21NZD+2.20%21%21%21%402101c4b817912696452788257e0f77%2112000036349746937%21ct%21NZ%217113399594%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D) | To solder the parts onto the PCB | 1 | $1.40 | $1.40 | [Aliexpress](https://www.aliexpress.com/item/1005006222917407.html?spm=a2g0o.cart.0.0.36e038daDEKyOO&mp=1&sourceType=570&pdp_npi=6%40dis%21NZD%21NZD+12.75%21NZD+2.49%21%21NZD+2.20%21%21%21%402101c4b817912696452788257e0f77%2112000036349746937%21ct%21NZ%217113399594%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D) |
 | [Soldering Iron Kit 80W](https://www.aliexpress.com/item/1005005623832147.html?spm=a2g0o.cart.0.0.36e038dategCSg&mp=1&sourceType=570&pdp_npi=6%40dis%21NZD%21NZD+51.19%21NZD+9.49%21%21NZD+8.35%21%21%21%402101c4b817912698838486031e0f77%2112000039999181482%21ct%21NZ%217113399594%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D) | To solder the components onto the PCB | 1 | $5.32 | $5.32 | [Aliexpress](https://www.aliexpress.com/item/1005005623832147.html?spm=a2g0o.cart.0.0.36e038dategCSg&mp=1&sourceType=570&pdp_npi=6%40dis%21NZD%21NZD+51.19%21NZD+9.49%21%21NZD+8.35%21%21%21%402101c4b817912698838486031e0f77%2112000039999181482%21ct%21NZ%217113399594%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D) |
 | **Parts subtotal** | — | — | — | **$20.70** | — |
-| **Tax & shipping** | — | — | — | **$1.50** | — |
-| **Total** | — | — | — | **$22.20** | — |
+| **Tax & shipping** | — | — | — | **$3.98** | — |
+| **Total** | — | — | — | **$24.68** | — |
 
-$7.80 left of the tier's funding.
+$5.32 left of the tier's funding.
