@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11h | 2 |
+| Week 1 | Tier 1 | 12h | 2 |
 
 ## Contents
 
@@ -35,7 +35,7 @@ I also watched a few tutorials, and I found this one very useful:
 
 ### 2026-10-05 — So first, I started to brainstorm ideas because I didn't want it to be a boring copy of the staarbie project, so I decided to make it more of like a handheld console kinda thing with 3 buttons, removi
 
-**7h**
+**8h**
 
 So first, I started to brainstorm ideas because I didn't want it to be a boring copy of the staarbie project, so I decided to make it more of like a handheld console kinda thing with 3 buttons, removing the sensors. This was my original rough plan of what it would look like.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/f17a6059581ecfa8e0170658adbe400f3c7f856f57ae167456bb5b77862601bb.png)
@@ -49,4 +49,6 @@ Then I started to look for parts on Aliexpress, but then I realized how expensiv
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/fe604d25ffed05da0656a0106392cb49486705d597763e3f91f3f37b08f07536.png)
 So after an unsuccessful search for parts, I finally came to the conclusion that I wouldn't be able to use the XIAO ESP32 C3 and that I'm going to have to use something else like the base model ESP32 C3 SuperMini, which is far cheaper.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/a0fe17fe1dfff91545d880f296292e647f84770f204e68a78355e2d0ea089ac5.png)
+I also got a approximate quote for the cost to make the PCB which is $2, and shipping is $6.5.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/183ed555549f943e7a90ee5af07268c9f01c3a1ce87341f23d6b23c1dd4ae7a4.png)
 Im going to have to redo the schematics and PCB with a new microcontroller.
