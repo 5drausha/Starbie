@@ -49,8 +49,8 @@ Then I started to look for parts on Aliexpress, but then I realized how expensiv
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/fe604d25ffed05da0656a0106392cb49486705d597763e3f91f3f37b08f07536.png)
 So after an unsuccessful search for parts, I finally came to the conclusion that I wouldn't be able to use the XIAO ESP32 C3 and that I'm going to have to use something else like the base model ESP32 C3 SuperMini, which is far cheaper.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/a0fe17fe1dfff91545d880f296292e647f84770f204e68a78355e2d0ea089ac5.png)
-I also got a approximate quote for the cost to make the PCB which is $2, and shipping is $6.5.
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/183ed555549f943e7a90ee5af07268c9f01c3a1ce87341f23d6b23c1dd4ae7a4.png)
+I also got a quote for the cost to make the PCB which is $2, and shipping is $1.5.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/2e8aac96a923ccf986f95b4e2518f9562bfd75d1a663adf84d28daee7c9fbdf4.png)
 I'm going to have to redo the schematics and PCB with a new microcontroller.
 
-Edit: Never mind, I won't have to, I just realized this whooole thing is in USD and not NZD, giving me a total NZD budget of $53.50. That should just be enough for Everything.
+Edit: Never mind, I won't have to, I just realized this whooole thing is in USD and not NZD, giving me a total NZD budget of $53.50. That should just be enough for Everything. That brings the total parts cost to $20.36 USD, $16.86 for parts and $3.5 for the PCB with shipping Included. But I will have to buy a Soldering Iron and some solder.
