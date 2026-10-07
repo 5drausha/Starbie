@@ -14,15 +14,17 @@
 
 ## Contents
 
-1. [2026-10-05 — This session was entirely focused on learning how CADs worked. I've never really used them so I wanted to get a bit of experience. I tried a lot of different CADs such as Shapr3D, Tinkercad, and Autod](#2026-10-05-this-session-was-entirely-focused-on-learning-how)
+1. [2026-10-05 — October 5th: Learning Onshape and CAD modelling](#2026-10-05-october-5th-learning-onshape-and-cad-modelling)
 2. [2026-10-05 — October 6th: Making the PCB, Schematic, and BOM.](#2026-10-05-october-6th-making-the-pcb-schematic-and-bom)
 3. [2026-10-07 — October 7th: Modelling the case in Onshape.](#2026-10-07-october-7th-modelling-the-case-in-onshape)
 
 ## Design
 
-### 2026-10-05 — This session was entirely focused on learning how CADs worked. I've never really used them so I wanted to get a bit of experience. I tried a lot of different CADs such as Shapr3D, Tinkercad, and Autod
+### 2026-10-05 — October 5th: Learning Onshape and CAD modelling
 
 **4h**
+
+October 5th: Learning Onshape and CAD modelling
 
 This session was entirely focused on learning how CADs worked. I've never really used them so I wanted to get a bit of experience. I tried a lot of different CADs such as Shapr3D, Tinkercad, and Autodesk Fusion, which took up a lot of time, but what worked best was Onshape. I found it out through people guiding me through the Hack Club Slack forum, so thanks to that.
 I did the Bakebuild Onshape tutorial provided by Hack Club. These are some of the Cookie cutters I made:
