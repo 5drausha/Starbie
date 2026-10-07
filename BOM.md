@@ -18,7 +18,7 @@
 | [0.96 inch OLED I2C display](https://www.aliexpress.com/item/1005006901360788.html?spm=a2g0n.shopcart.0.0.315f38daIVqQfI&mp=1&pdp_npi=6%40dis%21NZD%21NZD+9.98%21NZD+4.79%21%21NZD+4.79%21%21%21%402103292b17914109533271433e0e03%2112000038661327170%21ct%21NZ%217113399594%21%211%210%21#nav-review) | The screen of the project, the output. | 1 | $2.69 | $2.69 | [Aliexpress (TENSTAR ROBOT Store)](https://www.aliexpress.com/item/1005006901360788.html?spm=a2g0n.shopcart.0.0.315f38daIVqQfI&mp=1&pdp_npi=6%40dis%21NZD%21NZD+9.98%21NZD+4.79%21%21NZD+4.79%21%21%21%402103292b17914109533271433e0e03%2112000038661327170%21ct%21NZ%217113399594%21%211%210%21#nav-review) |
 | [Case top plate](https://jlc3dp.com/) | 3D printed case (top part) | 1 | $0.75 | $0.75 | [JLC3DP](https://jlc3dp.com/) |
 | **Parts subtotal** | — | — | — | **$15.79** | — |
-| **Tax & shipping** | — | — | — | **$3.55** | — |
-| **Total** | — | — | — | **$19.34** | — |
+| **Tax & shipping** | — | — | — | **$2.05** | — |
+| **Total** | — | — | — | **$17.84** | — |
 
-$10.66 left of the tier's funding.
+$12.16 left of the tier's funding.
