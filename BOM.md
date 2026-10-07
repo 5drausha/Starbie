@@ -17,7 +17,7 @@
 | [12mmx12mm tactile buttons](https://www.aliexpress.com/item/1005001629272642.html?spm=a2g0o.cart.0.0.603838da1Q2eWb&mp=1&pdp_npi=6%40dis%21NZD%21NZD+5.69%21NZD+2.01%21%21NZD+1.74%21%21%21%402101c4b817912687029414265e0f77%2112000027468671627%21ct%21NZ%217113399594%21%211%210%21) | The 3 buttons in the Squarebire I'm making (comes in packs of  10pcs) | 10 | $0.11 | $1.10 | [Aliexpress (HAPPYVIEW Electronics)](https://www.aliexpress.com/item/1005001629272642.html?spm=a2g0o.cart.0.0.603838da1Q2eWb&mp=1&pdp_npi=6%40dis%21NZD%21NZD+5.69%21NZD+2.01%21%21NZD+1.74%21%21%21%402101c4b817912687029414265e0f77%2112000027468671627%21ct%21NZ%217113399594%21%211%210%21) |
 | [0.96 inch OLED I2C display](https://www.aliexpress.com/item/1005006901360788.html?spm=a2g0n.shopcart.0.0.315f38daIVqQfI&mp=1&pdp_npi=6%40dis%21NZD%21NZD+9.98%21NZD+4.79%21%21NZD+4.79%21%21%21%402103292b17914109533271433e0e03%2112000038661327170%21ct%21NZ%217113399594%21%211%210%21#nav-review) | The screen of the project, the output. | 1 | $2.69 | $2.69 | [Aliexpress (TENSTAR ROBOT Store)](https://www.aliexpress.com/item/1005006901360788.html?spm=a2g0n.shopcart.0.0.315f38daIVqQfI&mp=1&pdp_npi=6%40dis%21NZD%21NZD+9.98%21NZD+4.79%21%21NZD+4.79%21%21%21%402103292b17914109533271433e0e03%2112000038661327170%21ct%21NZ%217113399594%21%211%210%21#nav-review) |
 | **Parts subtotal** | — | — | — | **$15.04** | — |
-| **Tax & shipping** | — | — | — | **$3.98** | — |
-| **Total** | — | — | — | **$19.02** | — |
+| **Tax & shipping** | — | — | — | **$3.55** | — |
+| **Total** | — | — | — | **$18.59** | — |
 
-$10.98 left of the tier's funding.
+$11.41 left of the tier's funding.
