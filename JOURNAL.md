@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 — This session was entirely focused on learning how CADs worked. I've never really used them so I wanted to get a bit of experience. I tried a lot of different CADs such as Shapr3D, Tinkercad, and Autod](#2026-10-05-this-session-was-entirely-focused-on-learning-how)
-2. [2026-10-05 — So first, I started to brainstorm ideas because I didn't want it to be a boring copy of the staarbie project, so I decided to make it more of like a handheld console kinda thing with 3 buttons, removi](#2026-10-05-so-first-i-started-to-brainstorm-ideas-because-i-)
+2. [2026-10-05 — October 6th: Making the PCB, Schematic, and BOM.](#2026-10-05-october-6th-making-the-pcb-schematic-and-bom)
 3. [2026-10-07 — October 7th: Modelling the case in Onshape.](#2026-10-07-october-7th-modelling-the-case-in-onshape)
 
 ## Design
@@ -34,9 +34,11 @@ They aren't the best, but they did help me understand how it worked. Then I spen
 I also watched a few tutorials, and I found this one very useful:
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/addd7cfc531e890e4dee04489e2fd6841312123840f990ee87ebf75add681d07.png)
 
-### 2026-10-05 — So first, I started to brainstorm ideas because I didn't want it to be a boring copy of the staarbie project, so I decided to make it more of like a handheld console kinda thing with 3 buttons, removi
+### 2026-10-05 — October 6th: Making the PCB, Schematic, and BOM.
 
 **7h**
+
+October 6th: Making the PCB, Schematic, and BOM.
 
 So first, I started to brainstorm ideas because I didn't want it to be a boring copy of the staarbie project, so I decided to make it more of like a handheld console kinda thing with 3 buttons, removing the sensors. This was my original rough plan of what it would look like.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6NsErT1120V2FDTcxwPhvTmpArnC2ArA/f17a6059581ecfa8e0170658adbe400f3c7f856f57ae167456bb5b77862601bb.png)
