@@ -19,7 +19,7 @@
 | [Case top plate](https://jlc3dp.com/) | 3D printed case (top part) | 1 | $0.75 | $0.75 | [JLC3DP](https://jlc3dp.com/) |
 | [Case Bottom Part](https://jlc3dp.com/) | What actually holds the components. The main Compartment | 1 | $1.59 | $1.59 | [JLC3DP](https://jlc3dp.com/) |
 | **Parts subtotal** | — | — | — | **$17.91** | — |
-| **Tax & shipping** | — | — | — | **$2.64** | — |
-| **Total** | — | — | — | **$20.55** | — |
+| **Tax & shipping** | — | — | — | **$2.71** | — |
+| **Total** | — | — | — | **$20.62** | — |
 
-$9.45 left of the tier's funding.
+$9.38 left of the tier's funding.
